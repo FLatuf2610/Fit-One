@@ -56,7 +56,7 @@ html{
     content: '';
     position: absolute;
     width: 91px;
-    height: 34px;
+    height: 36px;
     border-radius: 12px;
     top: 0;
     left: 0;
@@ -566,7 +566,7 @@ form input:valid{
 
 form input:focus ~ label,
 form input:valid ~ label{
-    left: 10px;
+   
     transform: translateY(-21px);
     background-color: rgb(255, 255, 62);
     color: black;
